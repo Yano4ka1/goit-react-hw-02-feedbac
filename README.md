@@ -1,4 +1,5 @@
-**Read in other languages: [Русский](README.md), [Polska](README.pl.md).**
+**Read in other languages: [Русский](README.md), [Polska](README.pl.md),
+[English](README.en.md), [Spanish](README.es.md).**
 
 # React homework template
 
@@ -11,7 +12,7 @@
 
 1. Убедись что на компьютере установлена LTS-версия Node.js.
    [Скачай и установи](https://nodejs.org/en/) её если необходимо.
-2. Склонируй этот репозиторий.
+2. Клонируй этот репозиторий.
 3. Измени имя папки с `react-homework-template` на имя своего проекта.
 4. Создай новый пустой репозиторий на GitHub.
 5. Открой проект в VSCode, запусти терминал и свяжи проект с GitHub-репозиторием
